@@ -2,3 +2,7 @@
 *.iml
 .DS_Store
 keys.js
+.parcel-cache
+dist
+node_modules
+*.json
